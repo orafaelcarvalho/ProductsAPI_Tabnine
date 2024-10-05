@@ -1,0 +1,6 @@
+@ProductsAPI_Tabnine_HostAddress = http://localhost:5035
+
+GET {{ProductsAPI_Tabnine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
